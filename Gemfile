@@ -8,7 +8,7 @@ group :development, :test do
 end 
 
 group :production do 
-	"pg"
+	'pg'
 end
 
 # Use SCSS for stylesheets
